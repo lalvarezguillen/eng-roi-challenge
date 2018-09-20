@@ -8,4 +8,4 @@ install:
   - pip install -r requirements.dev.txt -r requirements.dist.txt
 script:
   - python manage.py test
-  # - codecov
+  - codecov
