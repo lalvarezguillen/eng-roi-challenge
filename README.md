@@ -9,7 +9,7 @@ The Python code styling decisions were deferred to the library Black.
 
 ### Requirements:
 
-* Python 3.5+
+* Python 3.6+
 
 
 ### Running the app:

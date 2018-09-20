@@ -14,5 +14,5 @@ class Tweet(models.Model):
     created_on = models.DateTimeField(default=datetime.datetime.utcnow)
 
     def __str__(self):
-        return "{}: {}".format(self.author, self.content)
+        return f"{self.author}: {self.content}"
 
