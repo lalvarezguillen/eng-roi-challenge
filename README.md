@@ -53,3 +53,7 @@ python manage.py test
 ```
 
 * Break things up.
+
+### TODO:
+* Stop importing Vue and jQuery in the HTML
+* Frontend tests
